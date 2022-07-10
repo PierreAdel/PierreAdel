@@ -7,11 +7,12 @@
 
 - 📫 How to reach me **pierreadelkamel@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1RN-q2DFJ60brRmD7-9wWW-HDiEsEW9jl/view?usp=sharing)
+- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1RN-q2DFJ60brRmD7-9wWW-HDiEsEW9jl/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pierre-adel-ab2512167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pierre adel" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/pierre-adel-ab2512167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="pierre adel" height="35" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
