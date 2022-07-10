@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working at [ShakaCode](https://www.shakacode.com/)
 
-- 🌱 I’m currently learning **Data science, Machine learning**
+- 🌱 I’m currently learning **AI, Data science, Machine learning**
 
 - 📫 How to reach me **pierreadelkamel@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1RN-q2DFJ60brRmD7-9wWW-HDiEsEW9jl/view?usp=sharing](https://drive.google.com/file/d/1RN-q2DFJ60brRmD7-9wWW-HDiEsEW9jl/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
