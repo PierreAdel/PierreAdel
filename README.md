@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [ShakaCode](https://www.shakacode.com/)
 
-- 🌱 I’m currently learning **AI, Data science, Machine learning**
+- 🌱 I’m currently learning **Ruby on Rails, Rescript**
 
 - 📫 How to reach me **pierreadelkamel@gmail.com**
 
