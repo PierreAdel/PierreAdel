@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **pierreadelkamel@gmail.com**
 
-- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1RN-q2DFJ60brRmD7-9wWW-HDiEsEW9jl/view?usp=sharing)
+- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1yj7H4341sk73J60FwZMmhgwJ8l-zc-yh/view?usp=share_link)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
