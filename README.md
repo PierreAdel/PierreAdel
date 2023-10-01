@@ -6,9 +6,7 @@
 - 🌱 I’m currently working with **React, React native, ReScript, JavaScript, TypeScript, Ruby on Rails**
 
 - 📫 How to reach me **pierreadelkamel@gmail.com**
-
-## - 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1yj7H4341sk73J60FwZMmhgwJ8l-zc-yh/view?usp=share_link)
-
+[comment]: <> (- 📄 Know about my experiences from my [resume](https://drive.google.com/file/d/1yj7H4341sk73J60FwZMmhgwJ8l-zc-yh/view?usp=share_link))
 
 
 <h3 align="left">Connect with me:</h3>
