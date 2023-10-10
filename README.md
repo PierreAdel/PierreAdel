@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [ShakaCode](https://www.shakacode.com/)
 
-- 🌱 I’m currently working with **React, React native, ReScript, JavaScript, TypeScript, Ruby on Rails**
+- 🌱 I’m currently working with **React, React native, ReScript, JavaScript, TypeScript, and Ruby on Rails**
 
 - 📫 How to reach me **pierreadelkamel@gmail.com**
 
