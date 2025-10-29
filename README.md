@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pierre Adel</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Egypt</h3>
 
-- 🔭 I’m currently working at [Truebase](https://truebase.io/)
-
-- 🌱 I’m currently working with **Node.js, Express, MongoDB, Redis, React, Redux, and JavaScript**
+- 🌱 I’m currently working with **Node.js, Express, MongoDB, Redis, React, Next, Redux, and JavaScript**
 
 - 📫 How to reach me **pierreadelkamel@gmail.com**
 
